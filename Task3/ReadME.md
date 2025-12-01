@@ -1,10 +1,10 @@
 Task 3 – Temperature Converter Website
-Overview
+Overview :
 
 A simple and interactive Temperature Converter Website built using HTML, CSS, and JavaScript.
 It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin with accurate and instant results.
 
-Features
+Features :
 
 Convert temperature between:
 
@@ -20,7 +20,7 @@ Responsive design
 
 Real-time temperature conversion
 
-Technologies Used
+Technologies Used :
 
 HTML5
 
@@ -28,7 +28,7 @@ CSS3
 
 JavaScript
 
-How It Works
+How It Works : 
 
 User enters a temperature value
 
