@@ -1,20 +1,24 @@
-Task 3 – Temperature Converter
+Task 3 – Temperature Converter Website
 Overview
 
-A simple and user-friendly Temperature Converter Web Application built using HTML, CSS, and JavaScript.
-It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin instantly using real-time input.
+A simple and interactive Temperature Converter Website built using HTML, CSS, and JavaScript.
+It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin with accurate and instant results.
 
 Features
 
-Converts between Celsius ↔ Fahrenheit ↔ Kelvin
+Convert temperature between:
 
-Real-time conversion on input
+Celsius → Fahrenheit / Kelvin
 
-Clean and minimal UI
+Fahrenheit → Celsius / Kelvin
 
-Fully responsive design
+Kelvin → Celsius / Fahrenheit
 
-Error handling for invalid inputs
+Clean and user-friendly UI
+
+Responsive design
+
+Real-time temperature conversion
 
 Technologies Used
 
@@ -24,6 +28,11 @@ CSS3
 
 JavaScript
 
-Project Purpose
+How It Works
 
-This project is part of my OIBSIP Web Development Internship (Task 3).
+User enters a temperature value
+
+Selects the unit (°C, °F, K)
+
+Website instantly converts and displays the result in all three units
+
